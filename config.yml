@@ -3,26 +3,8 @@ languageCode: en-us
 title: Shuvojit's folio
 theme: PaperMod
 
-menu:
-main:
-- identifier: home
-name: Home
-url: /
-weight: 10
-
--identifier: Experience
-name: Experience
-url: /Experience
-weight: 20
-
--identifier: ResearchInterests
-name: Research Interests
-url: /ResearchInterests
-weight: 30
-
-#Home page
-
-profileMode:
-enabled: true
-Title: "Shuvojit Ray Chaudhuri"
-subtitle: BITS Pilani
+params:
+ 
+    homeInfoParams:
+        Title: This is the personal blog of Mr. Shuvojit Ray Chaudhuri
+        Content: Service Engineer at Microsoft.
