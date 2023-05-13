@@ -7,12 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://shuvojitmsft.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://shuvojitmsft.github.io/docs/test/</link>
+      <title>Programming Hub</title>
+      <link>https://shuvojitmsft.github.io/docs/programminghub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shuvojitmsft.github.io/docs/test/</guid>
-      <description>This is a heading another one Content.</description>
+      <guid>https://shuvojitmsft.github.io/docs/programminghub/</guid>
+      <description>Github: https://github.com/ShuvojitMSFT/</description>
+    </item>
+    
+    <item>
+      <title>Work experience</title>
+      <link>https://shuvojitmsft.github.io/docs/workexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuvojitmsft.github.io/docs/workexperience/</guid>
+      <description>I have been with Microsoft since I started working. 2018 to 2021 (March) Supported enterprise customers to resolve their issues with O365 and Teams servers.
+2021 (April) to 2022 (April) During this period I worked in the blue team of Microsoft where I used a lot of investigation tools to defend the corporate network against bad actors.
+2022 (May) to present I am working in the hardware benchmarking space where we validate hardware use cases for deployment to production.</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>https://shuvojitmsft.github.io/docs/researchinterests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuvojitmsft.github.io/docs/researchinterests/</guid>
+      <description>Distributed Computing I am largely interested in large vector and scalar clocks.
+Analysis of algorithms Currently I am working on Master&amp;rsquo;s theorem
+x86 architecture I am working on a small project where I am trying to get more hands-on with the x86 platform</description>
     </item>
     
   </channel>
